@@ -19,13 +19,13 @@ Um wrapper React não oficial para o SDK do StackBlitz que facilita a incorpora�
 ## Instalação
 
 ```bash
-npm install @stackblitz/react-sdk
+npm install @stackblitz-react/sdk
 ```
 
 Em seguida, importe o wrapper em seus componentes:
 
 ```javascript
-import {stackBlitz} from '@stackblitz/react-sdk';
+import {stackBlitz} from '@stackblitz-react/sdk';
 ```
 
 ## Visão Geral
