@@ -4,6 +4,7 @@
   "description": "A unofficial React wrapper for the StackBlitz SDK that makes it easy to embed interactive code editors in React applications.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
+  "repository": "git://github.com/danielmeloalencar/stackblitz-sdk-react.git",
   "private": false,
   "publishConfig": {
     "access": "public"
