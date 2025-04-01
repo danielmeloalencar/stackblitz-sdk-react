@@ -1,5 +1,5 @@
 {
-  "name": "stackblitz-sdk-react",
+  "name": "@stackblitz-react/sdk",
   "version": "1.0.0",
   "description": "A unofficial React wrapper for the StackBlitz SDK that makes it easy to embed interactive code editors in React applications.",
   "main": "dist/index.js",
