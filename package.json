@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx rollup -c"
   },
-  "author": "Daniel Melo Alencar",
+  "author": "Daniel Melo Alencar <danielmalencar2011@gmail.com> (https://github.com/danielmeloalencar)",
   
   "license": "ISC",
   "peerDependencies": {
