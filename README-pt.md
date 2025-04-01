@@ -1,4 +1,4 @@
-# StackBlitz Editor Wrapper
+# StackBlitz SDK React Wrapper
 [English Version](README.md)
 
 Um wrapper React não oficial para o SDK do StackBlitz que facilita a incorporação de editores de código interativos em aplicações React.
