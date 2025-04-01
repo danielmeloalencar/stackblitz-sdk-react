@@ -331,10 +331,7 @@ vm.applyFsDiff({
   create: {
     'novoArquivo.js': 'console.log("Novo arquivo");'
   },
-  destroy: ['arquivoAntigo.js'],
-  update: {
-    'arquivo.js': 'console.log("Conteúdo atualizado");'
-  }
+  destroy: ['arquivoAntigo.js']
 });
 ```
 
